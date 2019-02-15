@@ -1,8 +1,8 @@
 name: refresh_listview
 description: RefreshListView is a ListView that allow you to refresh or load more.
 version: 0.0.1
-author: ChardLau<chardlau@outlook.com>
-homepage: www.chardlau.com
+author: ChardLau<hbliu419@gmail.com>
+homepage: https://github.com/chardlau/flutter_refresh_listview
 
 environment:
   sdk: ">=2.1.0 <3.0.0"

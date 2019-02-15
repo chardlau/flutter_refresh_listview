@@ -1,3 +1,4 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - Add RefreshListView.
 
-* TODO: Describe initial release.
+* TODO: Ability of handling empty items
+* TODO: Animation of entering the loading state
